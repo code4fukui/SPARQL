@@ -1,6 +1,6 @@
-# SPARQL
+# SPARQL.js
 
-A class to access via SPARQL
+A class to access via SPARQL in JavaScript (ES Module)
 
 ```js
 import { SPARQL } from "https://code4fukui.github.io/SPARQL/SPARQL.js";
